@@ -1,0 +1,4 @@
+$c_start列表名1$c_end
+CCTV-1,http://xxx.m3u8
+$c_start列表名2$c_end
+CCTV-2,http://xxx1.m3u8
