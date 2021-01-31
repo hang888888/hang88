@@ -1,4 +1,8 @@
-$c_start列表名1$c_end
-CCTV-1,http://xxx.m3u8
-$c_start列表名2$c_end
-CCTV-2,http://xxx1.m3u8
+$c_start央视频道$c_end
+CCTV1,http://abs.jiegectx.top/vip1212/jieting.php?id=1
+CCTV2,http://abs.jiegectx.top/vip1212/jieting.php?id=2
+
+$c_start港台频道$c_end
+三立LIVE新闻,http://abs.jiegectx.top/vip1212/jieting.php?id=4
+三立台湾台,http://abs.jiegectx.top/vip1212/jieting.php?id=5
+三立综合台,http://abs.jiegectx.top/vip1212/jieting.php?id=6
