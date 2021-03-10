@@ -4,7 +4,7 @@
   
   
 <channel id="天映經典CCM">
-<display-name lang="zh">天映經典CCM</display-name>
+<display-name lang="hk">天映經典CCM</display-name>
 <icon src="http//www.programme-television.org/logo_channels/35x35/chaine_406.png"/>
 <url>https//www.tbc.net.tw/epg</url>
 </channel>
@@ -13,9 +13,9 @@
 <title lang="hk">广东十虎与后五虎</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
-劇情簡介：Director：张彻
+Director：张彻
 Cast：王力, 龙天翔, 钱小豪, 狄龙, 傅声
-广东十虎之一谭敏（傅声饰）之侄谭聪（林志泰饰），在赌馆当巡场；一夜，
+  劇情簡介：广东十虎之一谭敏（傅声饰）之侄谭聪（林志泰饰），在赌馆当巡场；一夜，
   十虎的徒弟及后人等四人，在赌场相聚时，旗人佟七（王力饰）带着
   前清官之子小虎（陈树基饰）突袭，把谭聪杀死。原因是十虎之
   黎仁昭（狄龙饰）、谭敏等，昔日曾把父杀死，以助反清义士蔡民义（谷峰饰）脱险。
@@ -26,9 +26,9 @@ Cast：王力, 龙天翔, 钱小豪, 狄龙, 傅声
 <title lang="hk">绝代双骄</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
-劇情簡介：Director：楚原
+Director：楚原
 Cast：傅声, 文雪儿, 王戎
-燕南天(王戎)手抱婴儿到恶人谷找江琴为义弟江枫报仇，
+  劇情簡介：燕南天(王戎)手抱婴儿到恶人谷找江琴为义弟江枫报仇，
   怎知被恶人暗算。婴儿取名小鱼儿(傅声)，长大后出谷往找江琴报仇！
   途中屡被移花宫弟子花无缺(伍卫国)追杀。
 </desc></programme>
@@ -37,9 +37,9 @@ Cast：傅声, 文雪儿, 王戎
 <title lang="hk">千娇百媚</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
-劇情簡介：Director： 陶秦
+ Director： 陶秦
  Cast： 林黛, 陈厚, 范丽, 高宝树, 麦基
-有才华的女艺员兰兰与梅梅新加入「马氏歌舞团」，兰兰与团主马英不和。
+  劇情簡介：有才华的女艺员兰兰与梅梅新加入「马氏歌舞团」，兰兰与团主马英不和。
   马英在报纸匿名征求女友，兰兰与他以匿名用书信往来，互生情愫。
   相约见面时，两人胆怯退缩。歌舞团获邀到日本表演，由马英带领，
   兰兰担任女主角，二人的关系可否趁机会发展？
@@ -49,22 +49,22 @@ Cast：傅声, 文雪儿, 王戎
 <title lang="hk">黄飞鸿</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
-劇情簡介：Director： 何梦华
+ Director： 何梦华
  Cast： 陈萍, 谷峰, 王侠
-  黄飞鸿是武术电影史上最伟大的人物。此电影特别选择邵氏
+  劇情簡介：黄飞鸿是武术电影史上最伟大的人物。此电影特别选择邵氏
   其中一位最优秀的演员谷峰出演黄飞鸿，与一群企图以抢劫及
   谋杀等罪行诬陷他的黑帮进行争斗。尽管使用了不一样的手法，
   片中仍出现大量的动作场面。齐见证黄飞鸿和他的门生，
   以及美艳动人的陈萍，如何一同为荣誉及和平而战。
 </desc></programme>
   
-  <programme start="20210310202000 +0800" stop="20210310235900 +0800" channel="天映經典CCM">
+  <programme start="20210310202000 +0800" stop="20210310220000 +0800" channel="天映經典CCM">
 <title lang="hk"蓝与黑</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
-劇情簡介：Director： 陶秦
+ Director： 陶秦
  Cast： 林黛, 关山
-  影后林黛演技大发挥－由楚楚可怜的少年孤女，到清纯秀丽的护士，
+  劇情簡介：影后林黛演技大发挥－由楚楚可怜的少年孤女，到清纯秀丽的护士，
   乃至浓艳慑人的歌女，其演绎观众留下深刻印象。
   编导陶秦将爱情与大时代战争相结合，剧情跌宕起伏。
 </desc></programme>
