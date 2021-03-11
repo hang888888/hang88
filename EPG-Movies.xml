@@ -9,7 +9,7 @@
 <url>https//www.tbc.net.tw/epg</url>
 </channel>
 
-<programme start="20210310144500 +0800" stop="20210310162000 +0800" channel="天映經典CCM">
+<programme start="20210311144500 +0800" stop="20210311162000 +0800" channel="天映經典CCM">
 <title lang="hk">广东十虎与后五虎</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -22,7 +22,7 @@ Cast：王力, 龙天翔, 钱小豪, 狄龙, 傅声
   小虎遂与师叔们连手，杀死仍在世的十虎及其后人、传人，为父报仇...
 </desc></programme>
 
-<programme start="20210310162000 +0800" stop="20210310181500 +0800" channel="天映經典CCM">
+<programme start="20210311162000 +0800" stop="20210311181500 +0800" channel="天映經典CCM">
 <title lang="hk">绝代双骄</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -33,19 +33,8 @@ Cast：傅声, 文雪儿, 王戎
   途中屡被移花宫弟子花无缺(伍卫国)追杀。
 </desc></programme>
   
-<programme start="20210310162000 +0800" stop="20210310181500 +0800" channel="天映經典CCM">
-<title lang="hk">千娇百媚</title>
-<category lang="hk">邵氏/武俠/功夫</category>
-<desc lang="hk">
- Director： 陶秦
- Cast： 林黛, 陈厚, 范丽, 高宝树, 麦基
-  劇情簡介：有才华的女艺员兰兰与梅梅新加入「马氏歌舞团」，兰兰与团主马英不和。
-  马英在报纸匿名征求女友，兰兰与他以匿名用书信往来，互生情愫。
-  相约见面时，两人胆怯退缩。歌舞团获邀到日本表演，由马英带领，
-  兰兰担任女主角，二人的关系可否趁机会发展？
-</desc></programme>
   
-  <programme start="20210310181500 +0800" stop="20210310202000 +0800" channel="天映經典CCM">
+  <programme start="20210311181500 +0800" stop="20210311202000 +0800" channel="天映經典CCM">
 <title lang="hk">黄飞鸿</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -58,7 +47,7 @@ Cast：傅声, 文雪儿, 王戎
   以及美艳动人的陈萍，如何一同为荣誉及和平而战。
 </desc></programme>
   
-  <programme start="20210310202000 +0800" stop="20210310220000 +0800" channel="天映經典CCM">
+  <programme start="20210311202000 +0800" stop="20210311220000 +0800" channel="天映經典CCM">
 <title lang="hk"蓝与黑</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
@@ -68,6 +57,19 @@ Cast：傅声, 文雪儿, 王戎
   乃至浓艳慑人的歌女，其演绎观众留下深刻印象。
   编导陶秦将爱情与大时代战争相结合，剧情跌宕起伏。
 </desc></programme>
+  
+ <programme start="20210311220000 +0800" stop="20210311234000 +0800" channel="天映經典CCM">
+<title lang="hk"蓝与黑续集</title>
+<category lang="hk">邵氏/武俠/功夫</category>
+<desc lang="hk">
+ Director： 陶秦
+ Cast： 林黛, 关山，丁红
+  劇情簡介：影后林黛演技大发挥－由楚楚可怜的少年孤女，到清纯秀丽的护士，
+  乃至浓艳慑人的歌女，其演绎观众留下深刻印象。
+  编导陶秦将爱情与大时代战争相结合，剧情跌宕起伏。
+</desc></programme> 
+  
+  
 
 =======================================================================================================================================================
 
