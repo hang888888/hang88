@@ -9,6 +9,16 @@
 <url>https//www.tbc.net.tw/epg</url>
 </channel>
 
+  
+  <programme start="20210312120000 +0800" stop="20210312144500 +0800" channel="天映經典CCM">
+<title lang="hk">广东十虎</title>
+<category lang="hk">邵氏/武俠/功夫</category>
+<desc lang="hk">
+Director：张彻
+Cast：王力, 
+  劇情簡介：
+  </desc></programme>
+  
 <programme start="20210312144500 +0800" stop="20210312162000 +0800" channel="天映經典CCM">
 <title lang="hk">广东十虎与后五虎</title>
 <category lang="hk">邵氏/武俠/功夫</category>
