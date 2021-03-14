@@ -2205,7 +2205,7 @@
 
 ========================================================================================================================
 
-</channel>
+
 <channel id="天映經典CCM">
 <display-name lang="hk">天映經典CCM</display-name>
 <icon src="http//www.programme-television.org/logo_channels/35x35/chaine_406.png"/>
@@ -2573,7 +2573,7 @@ Cast：岳华, 罗烈, 井莉
 
 
 <programme start="20210314152500 +0800"stop="20210314172500 +0800" channel="天映經典CCM">
-<title lang="hk">疯猴</title>
+<title lang="hk">疯猴/Mad Monkey Kung Fu</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：刘家良
@@ -2583,7 +2583,7 @@ Cast：刘家良, 小候, 惠英红
 
 
 <programme start="20210314172500 +0800"stop="20210314185000 +0800" channel="天映經典CCM">
-<title lang="hk">爱的世界</title>
+<title lang="hk">爱的世界/The Story of My Son</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：杜琪峰
@@ -2593,7 +2593,7 @@ Cast：刘松仁, 黄坤玄, 郑柏林, 吴孟达
 
 
 <programme start="20210314185000 +0800"stop="20210314203000 +0800" channel="天映經典CCM">
-<title lang="hk">快活林</title>
+<title lang="hk">快活林/The Delightful Forest</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：张彻, 鲍学礼
@@ -2603,7 +2603,7 @@ Cast：狄龙，田青，于枫，朱牧
 
 
 <programme start="20210314203000 +0800"stop="20210314220000 +0800" channel="天映經典CCM">
-<title lang="hk">六刺客</title>
+<title lang="hk">六刺客/Six Assassins</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：郑昌和
@@ -2613,7 +2613,7 @@ Cast：凌云, 夏凡, 南宫勋
 
 
 <programme start="20210314220000 +0800"stop="20210314234000 +0800" channel="天映經典CCM">
-<title lang="hk">求爱敢死队</title>
+<title lang="hk">求爱敢死队/How to Pick Girls up !</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：王晶
@@ -2623,7 +2623,7 @@ Cast：曾志伟, 张曼玉, 李美凤
 
 
 <programme start="20210314234000 +0800"stop="20210315012000 +0800" channel="天映經典CCM">
-<title lang="hk">破坏之王</title>
+<title lang="hk">破坏之王/Love on Delivery</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：李力持
@@ -2633,7 +2633,7 @@ Cast：周星驰, 钟丽缇, 吴孟达, 林国斌
 
 
 <programme start="20210315012000 +0800"stop="20210315030000 +0800" channel="天映經典CCM">
-<title lang="hk">风花雪月</title>
+<title lang="hk">风花雪月/Moods of Love</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：李翰祥
@@ -2643,7 +2643,7 @@ Cast：余莎莉, 邵音音, 岳华
 
 
 <programme start="20210315030000 +0800"stop="20210315044500 +0800" channel="天映經典CCM">
-<title lang="hk">追女三十六房</title>
+<title lang="hk">追女三十六房/36 Secrets of Courtship</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：吕奇
@@ -2653,7 +2653,7 @@ Cast：艾蒂 , 凌黛, 韦弘, 贝如花
 
 
 <programme start="20210315044500 +0800"stop="20210315062000 +0800" channel="天映經典CCM">
-<title lang="hk">降头</title>
+<title lang="hk">降头/Black Magic</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：何梦华
@@ -2663,7 +2663,7 @@ Cast：恬妮, 李丽丽, 狄龙
 
 
 <programme start="20210315062000 +0800"stop="20210315080000 +0800" channel="天映經典CCM">
-<title lang="hk">人皮灯笼</title>
+<title lang="hk">人皮灯笼/Human Lanterns</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：孙仲
@@ -2673,7 +2673,7 @@ Cast：刘永, 陈观泰, 罗烈
 
 
 <programme start="20210315080000 +0800"stop="20210315094000 +0800" channel="天映經典CCM">
-<title lang="hk">陆阿采与黄飞鸿</title>
+<title lang="hk">陆阿采与黄飞鸿/Challenge of the Masters</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：刘家良
@@ -2683,7 +2683,7 @@ Cast：刘家辉, 陈观泰, 汪禹, 李丽丽
 
 
 <programme start="20210315094000 +0800"stop="20210315112500 +0800" channel="天映經典CCM">
-<title lang="hk">我爱罗兰度</title>
+<title lang="hk">我爱罗兰度/I Love Lolanto</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：王晶
@@ -2693,7 +2693,7 @@ Cast：陈百祥, 夏文汐, 王禹, 陈惠敏
 
 
 <programme start="20210315112500 +0800"stop="20210315130500 +0800" channel="天映經典CCM">
-<title lang="hk">黄飞鸿</title>
+<title lang="hk">黄飞鸿/The Master of Kung Fu</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：何梦华
@@ -2703,7 +2703,7 @@ Cast：陈萍, 谷峰, 王侠
 
 
 <programme start="20210315130500 +0800"stop="20210315150500 +0800" channel="天映經典CCM">
-<title lang="hk">千娇百媚</title>
+<title lang="hk">千娇百媚/Les Belles</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：陶秦
@@ -2713,7 +2713,7 @@ Cast：林黛, 陈厚, 范丽, 高宝树, 麦基
 
 
 <programme start="20210315150500 +0800"stop="20210315164500 +0800" channel="天映經典CCM">
-<title lang="hk">玉罗剎</title>
+<title lang="hk">玉罗剎/The Jade Raksha</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：何梦华
@@ -2723,7 +2723,7 @@ Cast：郑佩佩, 唐菁
 
 
 <programme start="20210315164500 +0800"stop="20210315184000 +0800" channel="天映經典CCM">
-<title lang="hk">十万火急</title>
+<title lang="hk">十万火急/Lifeline</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：杜琪峰
@@ -2733,7 +2733,7 @@ Cast：刘青云, 李若彤, 方中信
 
 
 <programme start="20210315184000 +0800"stop="20210315203500 +0800" channel="天映經典CCM">
-<title lang="hk">少林五祖</title>
+<title lang="hk">少林五祖/Five Shaolin Masters</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：张彻
@@ -2743,7 +2743,7 @@ Cast：姜戴维, 狄龙, 傅声, 戚冠军, 孟飞
 
 
 <programme start="20210315203500 +0800"stop="20210315220000 +0800" channel="天映經典CCM">
-<title lang="hk">鬼新娘</title>
+<title lang="hk">鬼新娘/The Bride From Hell</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：周旭江
@@ -2753,7 +2753,7 @@ Cast：邢慧, 杨帆, 顾媚, 雷鸣
 
 
 <programme start="20210315220000 +0800"stop="20210315234000 +0800" channel="天映經典CCM">
-<title lang="hk">清宫大刺杀</title>
+<title lang="hk">清宫大刺杀/Flying Guillotine 2</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：程刚, 华山
@@ -2763,7 +2763,7 @@ Cast：谷峰, 王钟, 狄龙, 燕南希
 
 
 <programme start="20210315234000 +0800"stop="20210316012000 +0800" channel="天映經典CCM">
-<title lang="hk">貂蝉</title>
+<title lang="hk">貂蝉/Diau Charn</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：李翰祥
@@ -2773,7 +2773,7 @@ Cast：林黛, 赵雷, 杨志卿, 罗维
 
 
 <programme start="20210316012000 +0800"stop="20210316030500 +0800" channel="天映經典CCM">
-<title lang="hk">鬼画符</title>
+<title lang="hk">鬼画符/The Fake Ghost Catchers</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：刘家荣
@@ -2783,7 +2783,7 @@ Cast：傅声, 小侯
 
 
 <programme start="20210316030500 +0800"stop="20210316044500 +0800" channel="天映經典CCM">
-<title lang="hk">明日之歌</title>
+<title lang="hk">明日之歌/Song of Tomorrow</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：陶秦
@@ -2793,7 +2793,7 @@ Cast：凌波, 乔庄, 金汉
 
 
 <programme start="20210316044500 +0800"stop="20210316063000 +0800" channel="天映經典CCM">
-<title lang="hk">洪熙官</title>
+<title lang="hk">洪熙官/Executioners From Shaolin</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：刘家良
@@ -2803,7 +2803,7 @@ Cast：陈观泰, 汪禹
 
 
 <programme start="20210316063000 +0800"stop="20210316080000 +0800" channel="天映經典CCM">
-<title lang="hk">黑蜥蜴</title>
+<title lang="hk">黑蜥蜴/The Black Lizard</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：楚原
@@ -2813,7 +2813,7 @@ Cast：尔冬升, 潘冰嫦, 顾冠忠
 
 
 <programme start="20210316080000 +0800"stop="20210316094500 +0800" channel="天映經典CCM">
-<title lang="hk">天涯明月刀</title>
+<title lang="hk">天涯明月刀/The Magic Blade</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：楚原
@@ -2823,7 +2823,7 @@ Cast：狄龙, 井莉, 罗烈
 
 
 <programme start="20210316094500 +0800"stop="20210316112500 +0800" channel="天映經典CCM">
-<title lang="hk">孔雀王朝</title>
+<title lang="hk">孔雀王朝/Murder Plot</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：楚原
@@ -2833,7 +2833,7 @@ Cast：姜戴维, 井莉, 陈萍
 
 
 <programme start="20210316112500 +0800"stop="20210316130000 +0800" channel="天映經典CCM">
-<title lang="hk">大侠沈胜衣</title>
+<title lang="hk">大侠沈胜衣/The Roving Swordsman</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：楚原
@@ -2843,7 +2843,7 @@ Cast：狄龙, 井莉, 欧阳佩珊, 谷峰
 
 
 <programme start="20210316130000 +0800"stop="20210316145500 +0800" channel="天映經典CCM">
-<title lang="hk">无名英雄</title>
+<title lang="hk">无名英雄/The Anonymous Heroes</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：张彻
@@ -2853,7 +2853,7 @@ Cast：姜戴维, 狄龙, 井莉, 谷峰
 
 
 <programme start="20210316145500 +0800"stop="20210316163500 +0800" channel="天映經典CCM">
-<title lang="hk">神经大侠</title>
+<title lang="hk">神经大侠/Lovers Blades</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：鲁俊谷
@@ -2863,7 +2863,7 @@ Cast：元德, 惠英红, 孟元文, 文雪儿
 
 
 <programme start="20210316163500 +0800"stop="20210316181000 +0800" channel="天映經典CCM">
-<title lang="hk">日劫</title>
+<title lang="hk">日劫/Descendant of the Sun</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：楚原
@@ -2873,7 +2873,7 @@ Cast：尔冬升, 钟楚红, 顾冠忠, 龙天翔
 
 
 <programme start="20210316181000 +0800"stop="20210316201000 +0800" channel="天映經典CCM">
-<title lang="hk">新不了情</title>
+<title lang="hk">新不了情/Love Without End</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：潘垒
@@ -2883,7 +2883,7 @@ Cast：胡燕妮, 凌云, 林嘉, 方宇
 
 
 <programme start="20210316201000 +0800"stop="20210316220000 +0800" channel="天映經典CCM">
-<title lang="hk">四骑士</title>
+<title lang="hk">四骑士/Four Riders</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：张彻
@@ -2893,7 +2893,7 @@ Cast：姜戴维, 狄龙, 王钟, 仓田保昭, 陈观泰
 
 
 <programme start="20210316220000 +0800"stop="20210316235500 +0800" channel="天映經典CCM">
-<title lang="hk">倾国倾城</title>
+<title lang="hk">倾国倾城/The Empress Dowager</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：李翰祥
@@ -2903,7 +2903,7 @@ Cast：卢燕, 萧瑶, 狄龙
 
 
 <programme start="20210316235500 +0800"stop="20210317014500 +0800" channel="天映經典CCM">
-<title lang="hk">中华丈夫</title>
+<title lang="hk">中华丈夫/Heroes of the East</title>
 <category lang="hk">邵氏/武俠/功夫</category>
 <desc lang="hk">
 劇情簡介：Director：刘家良
