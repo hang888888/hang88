@@ -1,4 +1,5 @@
 港澳,#genre#
+JStar极限电影台,tvbus://6FPNBzRsYXHBDN6wicZW2dmNv4z7jZJdekBKaeTZbxFu63sSCSjYd6GZaCZBR 
 凤凰中文台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b00075956b021861efc75b7ed.ts
 凤凰资讯台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b00090483328819f2db8ecad0.ts#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b00090483328819f2db8ecad0.ts
 凤凰香港台 HD,mitv://fccseuro.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0.ts#http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8#mitv://fccsovh.pvbox.live:18912/5b14092b000ab058aba6213c0ddec4b0.ts
