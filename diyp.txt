@@ -665,7 +665,7 @@ ELTV生活英语台,mitv://ns2.hellotvvod.com:9906/5fc6573400060509485b452737227
 空中英语教室,mitv://ns2.hellotvvod.com:9906/5fc65734000c81b4485b46cd5071600b.ts
 靖洋卡通Nice Bingo,mitv://ns2.hellotvvod.com:9906/5fbd15b60003fec22433706a424e21dd.ts
 MTV,mitv://ns2.hellotvvod.com:9906/5ff40a59000472276072b2e85a313f85.ts
-MTV Live HD,mitv://ns2.hellotvvod.com:9906/magnet:?xt=urn:btih:5ff3f956000c72776030414328510b00	.ts
+MTV Live HD,mitv://ns2.hellotvvod.com:9906/	.ts
 韩国娱乐台,mitv://ns2.hellotvvod.com:9906/5ff3f957000437b76030430904214b72.ts
 Mezzo Live,mitv://ns2.hellotvvod.com:9906/5fd893400001cac88f95e56c2c993dd0.ts
 CLASSICA古典音乐台,mitv://ns2.hellotvvod.com:9906/5fd8934000080a448f95e702274b03a6.ts
