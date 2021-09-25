@@ -1,7 +1,7 @@
 #EXTM3U     url-logos="https://hang88.gitee.io/TV-logo/Picon-HD/"
-            tvg-url="http://epg.51zmt.top:8000/e.xml"
+           * tvg-url="http://epg.51zmt.top:8000/e.xml"
 diyp & 百川 tvg-url="http://epg.112114.xyz"
-    xml格式 tvg-url="https://epg.112114.xyz/pp.xml"
+    xml格式* tvg-url="https://epg.112114.xyz/pp.xml"
    超级直播 tvg-url="https://epg.112114.xyz/epginfo"
             tvg-url="http://tv.sason.xyz/epg"
             tvg-url="http://tv.tvtree.top/e.php?epg=tm.xml"
@@ -16,9 +16,19 @@ url-tvg="http://xmltv.bigsb.fr/xmltv.xml.gz,https://iptvx1.ml/epg.xml.gz,https:/
 github电视猫的EPG:https://github.com/3mile/tvmao_epg
 三立新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twslxw
 卫视卡式,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
-LS龙祥电影,http://www.1314lm.com/mylive/102/2064/index.m3u8#http://107.167.5.66:80/mylive/102/2064/index.m3u8
+LS龙祥电影,http://www.1314lm.com/mylive/102/2064/index.m3u8
+           http://107.167.5.66:80/mylive/102/2064/index.m3u8
 
-
+PNI HD
+http://hbox.cdnss.me:80/bestcs/bestcs/3533
+VIVIDRED HD
+http://hbox.cdnss.me:80/bestcs/bestcs/3534
+#EXTINF:-1 group-title="🇹🇼锁码频道🇹🇼", HUSTLER HD
+http://hbox.cdnss.me:80/bestcs/bestcs/3535
+ALBAXXX HD
+http://hbox.cdnss.me:80/bestcs/bestcs/3536
+EROFIC3
+http://hbox.cdnss.me:80/bestcs/bestcs/3537
 #EXTINF:-1 group-title="🇹🇼锁码频道🇹🇼", WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:-1 group-title="🇹🇼锁码频道🇹🇼", WWE
@@ -498,8 +508,12 @@ https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/360213/live_362963326_14864
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", bili粤语TVB电视
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/live_2809908_2574327.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", *bili经典功夫台
+http://epg.112114.xyz/bili/21715386
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", **bili经典功夫台
 http://103.140.229.13/BOBO/bibi.php?id=21715386
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", *bili经典影视台
+http://epg.112114.xyz/bili/23169468
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", **bili经典影视台
 http://103.140.229.13/BOBO/bibi.php?id=23169468
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="" group-title="🇨🇳私人定制频道🇨🇳", **bili星级剧集台
