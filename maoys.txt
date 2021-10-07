@@ -5,6 +5,7 @@
                 "name": "极品资源jpysvip.net",
                 "type": 0,
                 "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+                "playUrl": "",
                 "categories": [
         "福利",
         "演员",
