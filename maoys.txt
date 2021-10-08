@@ -125,7 +125,7 @@
 		"type": 0,
 		"api": "https://api.fengapp.xyz/api.php/provide/vod/at/xml",
 		"playUrl": "",
-		"categories": []
+		"categories": ["伦理片",“hk&tw伦理片”,"写真资源","素人系列"]
 	},
 	{
 		"key": "芒果AV",
