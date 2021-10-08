@@ -110,7 +110,47 @@
         "泰国剧",
         "论理片"
       ]
-    }
+    },
+    {
+		"key": "优果资源",
+		"name": "优果资源ugirl16(18+)",
+		"type": 0,
+		"api": "https://www.ugirl6.com/inc/zyapimac.php",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "KK写真资源",
+		"name": "KK写真资源fengapp(18+)",
+		"type": 0,
+		"api": "https://api.fengapp.xyz/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "芒果AV",
+		"name": "芒果AV mgav1(18+)",
+		"type": 0,
+		"api": "http://www.mgav1.cc/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "百度伦理",
+		"name": "百度伦理11bdzy(18+)",
+		"type": 0,
+		"api": "http://www.llbdzy.com/api.php/provide/vod/at/xml",
+		"playUrl": "",
+		"categories": []
+	},
+	{
+		"key": "SB资源",
+		"name": "SB资源shabizy(18+)",
+		"type": 0,
+		"api": "http://www.shabizy.com:777/inc/sea",
+		"playUrl": "",
+		"categories": []
+	}
   ],
   "lives": [
     {
